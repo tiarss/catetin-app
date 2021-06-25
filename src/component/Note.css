@@ -1,0 +1,39 @@
+.note{
+    min-width: 225px;
+    max-width: 300px;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    padding:20px;
+    border-radius: 10px;
+    color: #26f;
+    margin: 10px;
+}
+.note:hover{
+    box-shadow: 0 4px 4px rgba(41, 41, 41, 0.486);
+}
+.footer-note{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-note{
+    margin-bottom: 10px;
+}
+.header-note h1{
+    font-size: 1.6rem;
+}
+.header-note p{
+    font-size: 0.8em;
+}
+.delete-icon{
+    cursor: pointer;
+}
+@media(max-width:501px) {
+    .note{
+        width: 88%;
+        max-width: 100%;
+    }
+}
