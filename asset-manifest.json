@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tiarss/catetin-app/static/css/main.0619848a.chunk.css",
+    "main.js": "/tiarss/catetin-app/static/js/main.aea33651.chunk.js",
+    "main.js.map": "/tiarss/catetin-app/static/js/main.aea33651.chunk.js.map",
+    "runtime-main.js": "/tiarss/catetin-app/static/js/runtime-main.0fee45d6.js",
+    "runtime-main.js.map": "/tiarss/catetin-app/static/js/runtime-main.0fee45d6.js.map",
+    "static/js/2.e1265f76.chunk.js": "/tiarss/catetin-app/static/js/2.e1265f76.chunk.js",
+    "static/js/2.e1265f76.chunk.js.map": "/tiarss/catetin-app/static/js/2.e1265f76.chunk.js.map",
+    "index.html": "/tiarss/catetin-app/index.html",
+    "static/css/main.0619848a.chunk.css.map": "/tiarss/catetin-app/static/css/main.0619848a.chunk.css.map",
+    "static/js/2.e1265f76.chunk.js.LICENSE.txt": "/tiarss/catetin-app/static/js/2.e1265f76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fee45d6.js",
+    "static/js/2.e1265f76.chunk.js",
+    "static/css/main.0619848a.chunk.css",
+    "static/js/main.aea33651.chunk.js"
+  ]
+}
