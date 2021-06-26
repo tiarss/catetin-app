@@ -1,6 +1,6 @@
 .notes{
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     justify-content:center;
 }
