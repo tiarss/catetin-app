@@ -3,9 +3,9 @@
     z-index: -1;
     width: 100%;
     height: 100vh;
-    background-image: url("https://images.pexels.com/photos/1008739/pexels-photo-1008739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-image: url("https://images.pexels.com/photos/1671324/pexels-photo-1671324.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
     background-size: cover;
-    filter: blur(2px);
+    filter: blur(1px);
 }
 .App{
     display: flex;
@@ -16,10 +16,15 @@
     left: 0;
     height: 100vh;
     width: 25%;
-    background-color: rgba(218, 218, 218, 0.637);
+    background-color: rgba(218, 218, 218, 0.384);
+}
+.new-notes h1{
+    margin-bottom: 20px;
+    color: white;
+    font-weight: 400;
 }
 .notes-app{
-    padding-top: 70px;
+    padding: 70px 20px 0;
     position: fixed;
     width: 75%;
     min-height: 100vh;
@@ -28,10 +33,13 @@
     right: 0px;
     overflow-y: auto;
     height: 100vh;
-    background-color: rgba(218, 218, 218, 0.452);
+    background-color: rgba(218, 218, 218, 0.192);
+}
+.notes-app h1{
+    font-weight: 400;
 }
 .notes-app::-webkit-scrollbar{
-    background-color: rgba(218, 218, 218, 0.452);
+    background-color: rgba(218, 218, 218, 0.192);
     width: 10px;
 }
 .notes-app::-webkit-scrollbar-thumb{
@@ -45,7 +53,7 @@
         width: 100%;
     }
     .App::-webkit-scrollbar{
-        background-color: rgba(218, 218, 218, 0.452);
+        background-color: rgba(218, 218, 218, 0.192);
         width: 10px;
     }
     .App::-webkit-scrollbar-thumb{
@@ -57,7 +65,7 @@
         width: 100%;
         position: static;
         height: auto;
-        background-color: rgba(218, 218, 218, 0.452);
+        background-color: rgba(218, 218, 218, 0.192);
     }
     .notes-app{
         width: 100%;
@@ -84,6 +92,7 @@
         width: 100%;
         position: static;
         height: auto; 
+        
     }
     .notes-app{
         width: 100%;

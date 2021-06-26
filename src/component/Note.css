@@ -1,6 +1,6 @@
 .note{
-    min-width: 225px;
-    max-width: 300px;
+    min-width: 250px;
+    max-width: 330px;
     min-height: 200px;
     display: flex;
     flex-direction: column;
@@ -22,8 +22,9 @@
 .header-note{
     margin-bottom: 10px;
 }
-.header-note h1{
+.header-note > h2{
     font-size: 1.6rem;
+    font-weight: bold;
 }
 .header-note p{
     font-size: 0.8em;

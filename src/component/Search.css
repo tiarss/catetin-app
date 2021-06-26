@@ -1,0 +1,27 @@
+.search{
+    display: flex;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.836);
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 1.5em;
+}
+
+.search input{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+.search input:focus{
+    outline: none;
+}
+@media (max-width:501px){
+    .search{
+        margin: 0px 23px 1.5em;
+    }
+}

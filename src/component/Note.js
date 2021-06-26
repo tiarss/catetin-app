@@ -6,7 +6,7 @@ const Note = ({judul,isi,tanggal,id,handleDeleteNote})=>{
     return(
             <div className="note">
                 <div className="header-note">
-                    <h1>{judul}</h1>
+                    <h2>{judul}</h2>
                     <p>{isi}</p>
                 </div>
                 <div className="footer-note">
