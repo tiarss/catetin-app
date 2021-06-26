@@ -51,6 +51,7 @@ function App() {
               )} 
             handleDeleteNote={deleteNote}
           />
+          <p style={{color:"white", marginBottom:'10px'}}>Photo by Francesco Ungaro from <a href="https://www.pexels.com/photo/photo-of-forest-with-fog-1671324/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels" style={{textDecoration:'none',color:"#26f"}} target="_blank">Pexels</a></p>
         </div>
         <div className="bg"></div>
       </div>
