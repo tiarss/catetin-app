@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/catetin-app/static/css/main.996a4957.chunk.css",
-    "main.js": "/catetin-app/static/js/main.aea33651.chunk.js",
-    "main.js.map": "/catetin-app/static/js/main.aea33651.chunk.js.map",
+    "main.css": "/catetin-app/static/css/main.63642ac8.chunk.css",
+    "main.js": "/catetin-app/static/js/main.2426e022.chunk.js",
+    "main.js.map": "/catetin-app/static/js/main.2426e022.chunk.js.map",
     "runtime-main.js": "/catetin-app/static/js/runtime-main.bfc9a26d.js",
     "runtime-main.js.map": "/catetin-app/static/js/runtime-main.bfc9a26d.js.map",
-    "static/js/2.e1265f76.chunk.js": "/catetin-app/static/js/2.e1265f76.chunk.js",
-    "static/js/2.e1265f76.chunk.js.map": "/catetin-app/static/js/2.e1265f76.chunk.js.map",
+    "static/js/2.52720e0c.chunk.js": "/catetin-app/static/js/2.52720e0c.chunk.js",
+    "static/js/2.52720e0c.chunk.js.map": "/catetin-app/static/js/2.52720e0c.chunk.js.map",
     "index.html": "/catetin-app/index.html",
-    "static/css/main.996a4957.chunk.css.map": "/catetin-app/static/css/main.996a4957.chunk.css.map",
-    "static/js/2.e1265f76.chunk.js.LICENSE.txt": "/catetin-app/static/js/2.e1265f76.chunk.js.LICENSE.txt"
+    "static/css/main.63642ac8.chunk.css.map": "/catetin-app/static/css/main.63642ac8.chunk.css.map",
+    "static/js/2.52720e0c.chunk.js.LICENSE.txt": "/catetin-app/static/js/2.52720e0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bfc9a26d.js",
-    "static/js/2.e1265f76.chunk.js",
-    "static/css/main.996a4957.chunk.css",
-    "static/js/main.aea33651.chunk.js"
+    "static/js/2.52720e0c.chunk.js",
+    "static/css/main.63642ac8.chunk.css",
+    "static/js/main.2426e022.chunk.js"
   ]
 }
